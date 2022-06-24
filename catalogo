@@ -7,6 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Catálogo</h1>  
+    <h1>Catálogo</h1>
+    <h2>Feminino</h2>
+    <h2>Masculino</h2>
+    <h2>Infantil</h2>  
 </body>
 </html>
